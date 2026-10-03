@@ -64,7 +64,7 @@ The project optimizes for constrained usefulness rather than maximum generality.
 
 The MVP supports one real friend, one real workflow, one primary input format, one structured transaction schema, one browser target, one local/open extraction model, one constrained computer-use model, deterministic validation, transaction-scoped approval, bounded execution, post-action verification, and execution traces.
 
-See [MVP.md](MVP.md) and [architecture.md](architecture.md).
+See [MVP.md](MVP.md), [architecture.md](architecture.md), and [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md).
 
 ## Documentation map
 
@@ -72,6 +72,7 @@ See [MVP.md](MVP.md) and [architecture.md](architecture.md).
 |---|---|
 | [PRD.md](PRD.md) | Product requirements and thesis |
 | [MVP.md](MVP.md) | Smallest testable product scope |
+| [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) | Phased implementation plan and agent execution contract |
 | [architecture.md](architecture.md) | System architecture and trust boundaries |
 | [FRIEND_PROFILE.md](FRIEND_PROFILE.md) | Real friend and business context |
 | [USER_RESEARCH.md](USER_RESEARCH.md) | Evidence about the real workflow |
